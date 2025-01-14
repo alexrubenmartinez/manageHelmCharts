@@ -14,7 +14,7 @@ Una aplicación en Python para descubrir y gestionar Helm charts mediante Artifa
 1. Clonar el repositorio:
 
 ```bash
-git clone [url-del-repositorio]
+git clone https://github.com/alexrubenmartinez/manageHelmCharts
 cd helm-chart-manager
 ```
 
